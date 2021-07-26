@@ -7,7 +7,7 @@
   <a href="Detalhamento dos Dados">Dados</a> |
 
 # Introdução
-<font color ='gray' style = 'font-size: 18px;'></font>
+<font color ='gray' style = 'font-size: 18px;'>Introdução</font>
 <p style='font-size: 18px; line-height: 2;'>Este repositório contem o projeto de datascience utilizando os conhecimentos de analise exploratoria de dados, modelagens graficas e previsão de resultados atraves de regressão linear.</p>  
 
 # Bibliotecas Utilizadas
