@@ -4,10 +4,10 @@
   <a href="#Introdução">Introdução</a> |
   <a href="#Bibliotecas Utilizadas">Bibliotecas Utilizadas</a> |
   <a href="#Descrição do Projeto">Descrição do Projeto</a> |
-  <a href="#Detalhamento dos Dados">Dados</a> |
+  <a href="#Detalhamento dos Dados">Detalhamento dos Dados</a> 
 
 # Introdução
-<font color ='gray' style = 'font-size: 18px;'>Introdução</font>
+<font color ='gray' style = 'font-size: 18px;'></font>
 <p style='font-size: 18px; line-height: 2;'>Este repositório contem o projeto de datascience utilizando os conhecimentos de analise exploratoria de dados, modelagens graficas e previsão de resultados atraves de regressão linear.</p>  
 
 # Bibliotecas Utilizadas
