@@ -1,4 +1,4 @@
-# Projeto-DataScience-01
+# Previsão dos Valores de Imóveis 
 
 <p align="center">
   <a href="#Introdução">Introdução</a> |
@@ -8,7 +8,7 @@
 
 # Introdução
 <font color ='gray' style = 'font-size: 18px;'></font>
-<p style='font-size: 18px; line-height: 2;'>Este repositório contem o projeto de datascience utilizando os conhecimentos de analise exploratoria de dados, modelagens graficas e previsão de resultados atraves de regressão linear.</p>  
+<p style='font-size: 18px; line-height: 2;'>Este repositório contem o projeto de data science utilizando os conhecimentos de analise exploratoria de dados, modelagens graficas e previsão de resultados atraves de regressão linear.</p>  
 
 # Bibliotecas Utilizadas
 <font color ='gray' style ='font-size: 18px;'></font>
